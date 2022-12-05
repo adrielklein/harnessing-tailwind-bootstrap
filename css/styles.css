@@ -4709,6 +4709,14 @@ textarea.form-control-lg {
     padding-right: 5rem;
   }
 }
+.podcast {
+  width:80% ;
+}
+@media (min-width: 768px) {
+  .podcast {
+    width:40% ;
+  }
+}
 .accordion-button:not(.collapsed) {
   color: #2532d8;
   background-color: #eaebfe;
